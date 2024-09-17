@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e654a59d-3179-4435-acdb-be30f27da682" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Test01.java" afterDir="false" />
+    <list default="true" id="e654a59d-3179-4435-acdb-be30f27da682" name="Changes" comment="API Testing Programs">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Test02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +73,19 @@
       <option name="presentableId" value="Default" />
       <updated>1726586316635</updated>
     </task>
+    <task id="LOCAL-00001" summary="API Testing Programs">
+      <option name="closed" value="true" />
+      <created>1726587128456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726587128456</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="API Testing Programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="API Testing Programs" />
   </component>
 </project>
