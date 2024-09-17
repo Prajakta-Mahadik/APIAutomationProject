@@ -16,8 +16,8 @@ public class Test02 {
                   .baseUri("https://restful-booker.herokuapp.com")
                   .basePath("/booking/1").log().all()
                 .when()
-                  .get()
+                   .get()
                 .then().log().all()
-                  .statusCode(200);
+                   .statusCode(200);
     }
 }
